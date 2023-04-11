@@ -1,7 +1,7 @@
 # BMEN415 Final Project
 ## Group 2
 
-This is the GitHub Repository for the BMEN 415 Winter 2023 Final Project, where we did a complete regression and classification analysis of a Polycystic Ovary Syndrome and Water Potability dataset, respectively. We also performed an exploratory data analysis on an image-based dataset called Chest X-Rays, which focusses on detecting pneumonia. 
+This is the GitHub Repository for the BMEN 415 Winter 2023 Final Project, where we did a complete regression and classification analysis of a Polycystic Ovary Syndrome and Water Potability dataset, respectively. We also performed an analysis on an image-based dataset called Chest X-Rays, which focusses on detecting pneumonia in patients. 
 
 The following datasets can be accessed here:
 
