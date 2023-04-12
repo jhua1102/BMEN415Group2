@@ -5,9 +5,9 @@ This is the GitHub Repository for the BMEN 415 Winter 2023 Final Project, where 
 
 The following datasets can be accessed here:
 
-Classification Analysis of Water Potability: https://www.kaggle.com/datasets/adityakadiwal/water-potability
+Classification Dataset, Water Potability: https://www.kaggle.com/datasets/adityakadiwal/water-potability
 
-Regression Analysis of PCOS: https://www.kaggle.com/code/karnikakapoor/pcos-diagnosis
+Regression Dataset, PCOS: https://www.kaggle.com/code/karnikakapoor/pcos-diagnosis
 
 Challenge Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
 
